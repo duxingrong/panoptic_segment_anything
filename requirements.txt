@@ -1,0 +1,23 @@
+accelerate
+addict
+diffusers
+gradio
+huggingface_hub
+matplotlib
+numpy
+onnxruntime
+opencv_python
+Pillow
+pycocotools
+PyYAML
+requests
+setuptools
+supervision
+termcolor
+timm
+transformers
+yapf
+segment_anything
+scikit-image
+segments-ai
+# torch 2.3.0 torchvision 
